@@ -38,6 +38,6 @@ Appointment booking platform with JWT authentication and role-based access contr
 
 ## Contact
 
-Email: your_email
-LinkedIn: your_linkedin
-Portfolio: your_portfolio
+Email: abhishekmevada85@gmail.com
+LinkedIn: https://www.linkedin.com/in/abhishek-mevada
+Portfolio: https://abhishek58.netlify.app/
